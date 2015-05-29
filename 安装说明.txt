@@ -1,0 +1,22 @@
+Adobe Flash Professional CS6 绿色版
+
+* 注意：如果需要使用此Flash进行AIR程序开发的话，需要补回AIR SDK。下载地址：http://www.adobe.com/products/air/sdk/
+
+* 此版本Adobe Flash Professional CS6由官方简体中文正式版制作而成，只需要执行一次快速安装即可使用。
+
+* 特点：
+1、精简了AIR SDK，Bridge CS6，多国语言，激活/升级系统等组件。
+2、使用SQLLite准确注册程序,为以后安装其他Adobe程序做好准备.
+3、能关联相关的文件。
+4、程序不含任何第三方插件。保持纯净。
+
+* 安装方法：
+方法一：运行“快速安装.exe”安装软件。
+方法二：使用命令行“快速安装.exe /i”安装；“快速安装.exe /u”卸载。
+
+* 新增功能
+HTML5的新支持,生成 Sprite 表单,锁定 3D 场景,高级绘制工具,行业领先的动画工具,高级文本引擎,专业视频工具等。
+详细介绍见http://www.adobe.com/cn/products/flash/features.html
+
+Ansifa
+2012-7-21
